@@ -1,0 +1,108 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slow Speed Troubleshooting Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        /* Basic styling */
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            height: 100%;
+            background-color: #ffffff;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* Changed from center to start to avoid cutting off */
+            align-items: center;
+            text-align: center;
+            min-height: 100vh; /* Ensure the body takes up the full height */
+            padding-top: 20px; /* Add some space above the content */
+        }
+
+        h1 {
+            font-size: 36px;
+            color: #e31c25; /* Fortinet red */
+            margin-bottom: 20px;
+        }
+
+        .container {
+            width: 80%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+            margin-top: 20px; /* Add space between the heading and the blocks */
+        }
+
+        .block {
+            width: 45%;
+            min-width: 300px;
+            text-align: center;
+            cursor: pointer;
+            border: 2px solid #e31c25;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            background-color: #fff;
+            overflow: hidden;
+        }
+
+        .block:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .block img {
+            width: 100%;
+            height: auto;
+            transition: opacity 0.3s ease;
+        }
+
+        .block p {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-top: 10px;
+        }
+
+        .block:hover img {
+            opacity: 0.8;
+        }
+
+        /* Section for bigger fonts for better visual appeal */
+        .heading {
+            font-size: 28px;
+            color: #e31c25;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="heading">Slow Speed Troubleshooting Assistant</h1>
+    
+    <div class="container">
+        <div class="block" onclick="window.location.href='http://10.119.200.83:8866/'">
+            <img src="https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/30be976a-bbb3-11ee-8673-fa163e15d75b/images/a8171b19262c5edce00133bcb42a594a_sslvpn-full-tunnel-01.png" alt="Image 1">
+            <p>SSL-VPN slow Internet</p>
+        </div>
+        <div class="block" onclick="window.location.href='https://www.example2.com'">
+            <img src="https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/30be976a-bbb3-11ee-8673-fa163e15d75b/images/a8171b19262c5edce00133bcb42a594a_sslvpn-full-tunnel-01.png" alt="Image 2">
+            <p>SSL-VPN slow file transfer</p>
+        </div>
+
+        <!-- Additional pair of blocks -->
+        <div class="block" onclick="window.location.href='https://www.example3.com'">
+            <img src="https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/598118ae-ea1f-11e9-8977-00505692583a/images/9eb66aab9c33a232ad7ba808a9258456_site-to-site-ipsec-vpn-with-two-FGs.png" alt="Image 3">
+            <p>Slow Site-Site IPSEC file transfer</p>
+        </div>
+        <div class="block" onclick="window.location.href='https://www.example4.com'">
+            <img src="https://community.fortinet.com/legacyfs/online/images/kb_17882_1.png" alt="Image 4">
+            <p>dial up IPSEC file transfer</p>
+        </div>
+    </div>
+</body>
+</html>
