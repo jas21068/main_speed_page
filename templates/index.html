@@ -82,21 +82,21 @@
     </style>
 </head>
 <body>
-    <h1 class="heading">Slow Speed Troubleshooting Assistant</h1>
+    <h1 class="heading"><b>MOBIUS SPEED TESTING TOOL</b></h1>
     
     <div class="container">
         <div class="block" onclick="window.location.href='http://10.119.200.83:8866/'">
-            <img src="https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/30be976a-bbb3-11ee-8673-fa163e15d75b/images/a8171b19262c5edce00133bcb42a594a_sslvpn-full-tunnel-01.png" alt="Image 1">
+            <img src="{{ url_for('static', filename='images/ssl_vpn.png') }}" alt="Image 1">
             <p>SSL-VPN slow Internet</p>
         </div>
         <div class="block" onclick="window.location.href='https://www.example2.com'">
-            <img src="https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/30be976a-bbb3-11ee-8673-fa163e15d75b/images/a8171b19262c5edce00133bcb42a594a_sslvpn-full-tunnel-01.png" alt="Image 2">
+            <img src="{{ url_for('static', filename='images/ssl_vpn.png') }}" alt="Image 2">
             <p>SSL-VPN slow file transfer</p>
         </div>
 
         <!-- Additional pair of blocks -->
         <div class="block" onclick="window.location.href='https://www.example3.com'">
-            <img src="https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/resources/598118ae-ea1f-11e9-8977-00505692583a/images/9eb66aab9c33a232ad7ba808a9258456_site-to-site-ipsec-vpn-with-two-FGs.png" alt="Image 3">
+            <img src="{{ url_for('static', filename='images/ipsec_vpn.png') }}" alt="Image 3">
             <p>Slow Site-Site IPSEC file transfer</p>
         </div>
         <div class="block" onclick="window.location.href='https://www.example4.com'">

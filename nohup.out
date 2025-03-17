@@ -22,3 +22,142 @@
 10.119.200.6 - - [15/Mar/2025 21:02:51] "GET / HTTP/1.1" 200 -
 10.119.200.6 - - [15/Mar/2025 21:09:18] "GET / HTTP/1.1" 200 -
 10.119.200.6 - - [15/Mar/2025 21:26:16] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [15/Mar/2025 22:00:59] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:45:19] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:56:58] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:56:58] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:56:58] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:20] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:20] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:20] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:21] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:21] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:21] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:22] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:23] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:57:23] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:57:23] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:55] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:55] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:55] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:56] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:57] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 19:59:58] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+10.119.200.6 - - [16/Mar/2025 20:00:19] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:00:19] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:19] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:19] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:00:19] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:19] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:20] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:00:20] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:20] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:46] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:00:46] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:00:46] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+10.119.200.6 - - [16/Mar/2025 20:03:58] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:03:58] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:58] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:03:59] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:04:03] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:04:03] "[33mGET /images/ssl_vpn.png HTTP/1.1[0m" 404 -
+10.119.200.6 - - [16/Mar/2025 20:04:03] "[33mGET /images/ipsec_vpn.png HTTP/1.1[0m" 404 -
+ * Detected change in '/home/jaskirat/main_speed_page/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 143-933-020
+10.119.200.6 - - [16/Mar/2025 20:05:49] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:05:49] "GET /static/images/ipsec_vpn.png HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:05:49] "GET /static/images/ssl_vpn.png HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:06:25] "GET / HTTP/1.1" 200 -
+10.119.200.6 - - [16/Mar/2025 20:06:25] "[36mGET /static/images/ssl_vpn.png HTTP/1.1[0m" 304 -
+10.119.200.6 - - [16/Mar/2025 20:06:25] "[36mGET /static/images/ipsec_vpn.png HTTP/1.1[0m" 304 -
