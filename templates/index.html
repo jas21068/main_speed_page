@@ -75,9 +75,43 @@
 
         /* Section for bigger fonts for better visual appeal */
         .heading {
-            font-size: 28px;
-            color: #e31c25;
-            margin-bottom: 30px;
+            font-size: 42px; /* Slightly bigger for emphasis */
+            font-weight: bold;
+            color: #ffffff; /* White text for contrast */
+            text-transform: uppercase;
+            text-align: center;
+            letter-spacing: 3px; /* Slightly wider for a bold look */
+            background: linear-gradient(90deg, #ff1a1a 0%, #cc0000 50%, #990000 100%); /* Fortinet Red Gradient */
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 5px 12px rgba(0, 0, 0, 0.4);
+            width: 85%;
+            margin: 20px auto;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+            font-family: "Arial Black", sans-serif; /* Bold and tech-like */
+            border: 3px solid #000; /* Black border for strong contrast */
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease-in-out;
+        }
+
+        /* Adding a Fortinet block-style effect */
+        .heading::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 120%;
+            height: 150%;
+            background: rgba(255, 255, 255, 0.1);
+            transform: translate(-50%, -50%) rotate(15deg);
+            z-index: 0;
+        }
+
+        /* Hover Effect: Slight Scale */
+        .heading:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
         }
     </style>
 </head>
