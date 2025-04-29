@@ -117,23 +117,28 @@
 </head>
 <body>
     <h1 class="heading"><b>MOBIUS SPEED TESTING TOOL</b></h1>
-    
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">🏠 Home</a>
+            <a href="http://10.21.3.250:8000" class="nav-link" target="_blank">📄 Documentation</a>
+        </div>
+    </nav>
     <div class="container">
-        <div class="block" onclick="window.location.href='http://10.119.200.83:8866/'">
+        <div class="block" onclick="window.open('http://10.21.3.250:8866/', '_blank')">
             <img src="{{ url_for('static', filename='images/ssl_vpn.png') }}" alt="Image 1">
             <p>SSL-VPN slow Internet</p>
         </div>
-        <div class="block" onclick="window.location.href='http://10.119.200.83:8867/'">
+        <div class="block" onclick="window.open('http://10.21.3.250:8867/', '_blank')">
             <img src="{{ url_for('static', filename='images/ssl_vpn.png') }}" alt="Image 2">
             <p>SSL-VPN slow file transfer</p>
         </div>
 
         <!-- Additional pair of blocks -->
-        <div class="block" onclick="window.location.href='http://10.119.200.83:8869/'">
+        <div class="block" onclick="window.open('http://10.21.3.250:8869/', '_blank')">
             <img src="{{ url_for('static', filename='images/ipsec_vpn.png') }}" alt="Image 3">
             <p>Slow Site-Site IPSEC file transfer</p>
         </div>
-        <div class="block" onclick="window.location.href='http://10.119.200.83:8868/'">
+        <div class="block" onclick="window.open('http://10.21.3.250:8868/', '_blank')">
             <img src="https://www.corporatearmor.com/wp-content/uploads/2020/12/2-connecting-network.png" alt="Image 4">
             <p>LAN Slow Speeds</p>
         </div>
