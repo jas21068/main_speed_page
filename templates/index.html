@@ -113,13 +113,45 @@
             transform: scale(1.05);
             box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
         }
+                /* nav bar start*/
+                .navbar {
+            width: 85%;
+            background-color: #e31c25;
+            padding: 15px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            width: 85%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .nav-link, .logo {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            margin-left: 20px;
+            font-size: 18px;
+            transition: color 0.2s ease;
+        }
+
+        .nav-link:hover, .logo:hover {
+            color: #ffdede;
+        }
+        /* nav bar end*/
     </style>
 </head>
 <body>
     <h1 class="heading"><b>MOBIUS SPEED TESTING TOOL</b></h1>
     <nav class="navbar">
         <div class="nav-container">
-            <a href="#" class="logo">🏠 Home</a>
+            <a href="http://10.21.3.250:8863" class="logo" target="_blank">🏠 Home</a>
             <a href="http://10.21.3.250:8000" class="nav-link" target="_blank">📄 Documentation</a>
         </div>
     </nav>
